@@ -1,2 +1,1 @@
-# COVID-19-Detection-Tool
-Work in progress......
+# COVID-19-Detection-Model
